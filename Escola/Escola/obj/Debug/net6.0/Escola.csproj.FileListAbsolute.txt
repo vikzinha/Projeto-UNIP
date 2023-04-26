@@ -1,0 +1,15 @@
+C:\Users\vicvi\source\repos\Escola\Escola\bin\Debug\net6.0\Escola.exe
+C:\Users\vicvi\source\repos\Escola\Escola\bin\Debug\net6.0\Escola.deps.json
+C:\Users\vicvi\source\repos\Escola\Escola\bin\Debug\net6.0\Escola.runtimeconfig.json
+C:\Users\vicvi\source\repos\Escola\Escola\bin\Debug\net6.0\Escola.dll
+C:\Users\vicvi\source\repos\Escola\Escola\bin\Debug\net6.0\Escola.pdb
+C:\Users\vicvi\source\repos\Escola\Escola\obj\Debug\net6.0\Escola.csproj.AssemblyReference.cache
+C:\Users\vicvi\source\repos\Escola\Escola\obj\Debug\net6.0\Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicvi\source\repos\Escola\Escola\obj\Debug\net6.0\Escola.AssemblyInfoInputs.cache
+C:\Users\vicvi\source\repos\Escola\Escola\obj\Debug\net6.0\Escola.AssemblyInfo.cs
+C:\Users\vicvi\source\repos\Escola\Escola\obj\Debug\net6.0\Escola.csproj.CoreCompileInputs.cache
+C:\Users\vicvi\source\repos\Escola\Escola\obj\Debug\net6.0\Escola.dll
+C:\Users\vicvi\source\repos\Escola\Escola\obj\Debug\net6.0\refint\Escola.dll
+C:\Users\vicvi\source\repos\Escola\Escola\obj\Debug\net6.0\Escola.pdb
+C:\Users\vicvi\source\repos\Escola\Escola\obj\Debug\net6.0\Escola.genruntimeconfig.cache
+C:\Users\vicvi\source\repos\Escola\Escola\obj\Debug\net6.0\ref\Escola.dll
